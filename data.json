@@ -1,0 +1,30 @@
+{
+  "headers":[
+    "User ID",
+    "Name",
+    "Occupation",
+    "Age"
+  ],
+  "rows": [
+    [
+      20012,
+    "Steve Rogers",
+    "Captain America",
+    100
+    ],
+    [
+      20013,
+      "Tony Stark",
+      "Iron Man",
+      40
+    ],
+    [
+      20014,
+      "Natasha Romanov",
+      "Black Widow",
+      "34"
+    ]
+    
+  ]
+  
+}
